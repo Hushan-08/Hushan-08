@@ -7,7 +7,7 @@
 
 💬 Ask me about C++, C & LeetCode
 
-⚡ BCA Student | Future Software Engineer 🚀
+⚡ B.E(IT) Student | Future Software Engineer 🚀
 
 
 ## 🌐 Socials:
