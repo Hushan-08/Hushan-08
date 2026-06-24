@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Improving my DSA skills<br>- Building personal web projects<br><br>👯 I’m looking to collaborate on<br>- Open Source Projects<br>- Student Developer Communities<br>- Hackathon Projects<br><br>🤝 I’m looking for help with<br>- System Design<br>- Full Stack Development<br>- Backend Development<br><br>🌱 I’m currently learning<br>- C++<br>- Data Structures & Algorithms<br>- Web Development<br>- DBMS<br><br>💬 Ask me about<br>- LeetCode<br>- C++<br>- C<br><br>⚡ Fun fact<br>- BE(IT) Student | Future Software Engineer | Punjabi Music Lover 🎵
+🔭 Building web projects & sharpening DSA
+
+🌱 Learning C++, DSA & Full Stack Development
+
+👯 Open to Open Source & Hackathon collaborations
+
+💬 Ask me about C++, C & LeetCode
+
+⚡ BCA Student | Future Software Engineer 🚀
 
 
 ## 🌐 Socials:
